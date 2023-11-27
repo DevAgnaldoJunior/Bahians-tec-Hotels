@@ -1,0 +1,32 @@
+.botoes {
+    text-decoration: none;
+    color: #121212;
+}
+
+.cadastro {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin: 150px;
+}
+
+
+.form-content {
+    display: flex;
+    margin: 20px;
+}
+.botao:hover{
+    background-color: #94d0e2 ;
+
+}
+
+button {
+    background-color: #00c3ff;
+    border: none;
+    border-radius: 15px;
+    padding: 15px;
+    -webkit-box-shadow: 2px 5px 11px -4px #000000; 
+    box-shadow: 2px 5px 11px -4px #000000;
+    width: 200px;
+}
